@@ -1,0 +1,8 @@
+.desc,
+.asc{
+    cursor: pointer;            
+}
+
+.desc{
+    transform: rotate(180deg);
+}
